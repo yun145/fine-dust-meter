@@ -1,7 +1,7 @@
-# fine-dust-meter
+# 휴대용 미세먼지 측정기
 <h5>제 미세먼지 측정기의 핵심은 측정기가 설치 되지 않은 곳에서도 측정하고 대비할 수 있도록 하기 위함 입니다. ╰(*°▽°*)╯</h5>
 <h5>코코아펩의 미세먼지 측정기 키트를 사용해 제작하였습니다. </h5>
-<h8>https://www.kocoafab.cc/make/view/729</h8>
+<h6>https://www.kocoafab.cc/make/view/729</h6>
 <hr>
  
  
